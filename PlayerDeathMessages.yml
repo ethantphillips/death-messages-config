@@ -122,6 +122,7 @@ Natural-Cause:
   - '&6%player%&c mistook a cactus for their new dildo'
   Melee:
   - '&6%player%&c killed themselves'
+  - '&6%player%&c was suicidal'
   Projectile-Unknown:
   - '&6%player%&c shot themselves'
   Projectile-Arrow:
